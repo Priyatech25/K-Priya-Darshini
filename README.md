@@ -1,4 +1,4 @@
-👋 Hi, I'm K Priya Dharshini  
+👋 Hi, I'm K Priya Darshini  
 
 🎓 CSE-Data Science student | Data Analyst Intern Aspirant  
 
