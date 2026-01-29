@@ -11,6 +11,8 @@
 I am a passionate Data Analyst with hands-on experience in **Python, SQL, Excel, and Power BI**.  
 I enjoy analyzing real-world data, performing exploratory analysis, and presenting insights through clean dashboards and reports.
 
+I also have **knowledge of Full-Stack Web and App development** using **Flutter, React, and backend technologies**, and have completed some real-world projects in this area.  
+
 Currently building projects that demonstrate analytical thinking, problem-solving, and business-focused insights.
 
 ---
@@ -22,12 +24,19 @@ Currently building projects that demonstrate analytical thinking, problem-solvin
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### 📊 Data Analysis  
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Statistical Analysis  
 - Data Visualization  
+
+### 🌐 Web & App Development  
+- Frontend: Flutter, React  
+- Backend: Python Flask / FastAPI (optional)  
+- Worked on small projects integrating APIs, Firebase, and UI/UX  
 
 ---
 
@@ -42,6 +51,11 @@ Currently building projects that demonstrate analytical thinking, problem-solvin
 - Built interactive dashboards using Power BI  
 - Used DAX, slicers, and filters for dynamic reporting  
 - Designed dashboards focused on business KPIs  
+
+### 🌐 Web & App Projects  
+- Developed **Flutter apps** with real-time API integration  
+- Built **web dashboards and tools** using React + Python backend  
+- Implemented user authentication, CRUD functionality, and analytics features  
 
 *(More projects coming soon 🚧)*
 
@@ -60,6 +74,7 @@ Currently building projects that demonstrate analytical thinking, problem-solvin
 
 - Advanced Python data analysis projects  
 - Power BI dashboards  
+- Full-Stack Web & App projects with Flutter & React  
 - Strengthening SQL and EDA skills  
 
 ---
