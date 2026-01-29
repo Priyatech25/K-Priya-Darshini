@@ -1,4 +1,4 @@
-# 👋 Hi, I'm K Priya Dharshini  
+# 👋 Hi, I'm K Priya Darshini  
 
 🎓 CSE – Data Science Student  
 📊 Aspiring Data Analyst  
@@ -81,7 +81,7 @@ Currently building projects that demonstrate analytical thinking, problem-solvin
 
 ## 📊 GitHub Stats  
 
-![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyatech25&show_icons=true&theme=dark&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyatech25&layout=compact&theme=dark&hide_border=true)
 
